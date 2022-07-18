@@ -17,5 +17,6 @@ public class gitTestDemo {
         System.out.println("hello master git");
         System.out.println("hello hot-fix-git");
         System.out.println("hello push git");
+        System.out.println("hello pull git");
     }
 }
